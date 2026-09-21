@@ -1,2 +1,2 @@
 # Reti
-Studio materia Reeti
+Studio materia Reti di calcolatori e internet
